@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 
 
-Default Keyboard Shortcuts
+# Default Keyboard Shortcuts
 Windows/Linux	Mac	Action
 Ctrl-D	Command-D	Remove line
 Alt-Shift-Down	Command-Option-Down	Copy lines down
