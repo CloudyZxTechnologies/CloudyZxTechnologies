@@ -6,8 +6,8 @@
 
 
 # Default Keyboard Shortcuts
-Windows/Linux	Mac	Action
-Ctrl-D	Command-D	Remove line
+- Windows/Linux	Mac	Action
+- Ctrl-D	Command-D	Remove line
 Alt-Shift-Down	Command-Option-Down	Copy lines down
 Alt-Shift-Up	Command-Option-Up	Copy lines up
 Alt-Down	Option-Down	Move lines down
